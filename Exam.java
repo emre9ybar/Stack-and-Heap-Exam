@@ -5,7 +5,5 @@ public class Exam {
         System.out.println();
         System.out.println();
         System.out.println("helleo");
-        System.out.println();
-        System.out.println("5 adet ");
     }
 }
